@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Prompt', sans-serif;
+}
+.flaxible-continer{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 60%;
+}
